@@ -5,5 +5,5 @@ A website lets you take notes by using express.js.
 ## Usage of the webpage
 ![usage gif](./develop/images/usage.gif)
 ## Content
-** Express.js
+** Express.js,
 ** npm
